@@ -1,5 +1,4 @@
-musicLib
-- I can haz no duplicatez!
+musicLib - I can haz no duplicatez!
 
 - This came out of frustration of having duplicates in iTunes
 library and hearing the same song repeate twice and thrice before switching to a new one.
